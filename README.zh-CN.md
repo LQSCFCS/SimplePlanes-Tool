@@ -45,7 +45,7 @@ SimplePlanes 的 Label 零件使用 Unity TMP（TextMeshPro）富文本系统。
 - 界面：PyQt5
 - 依赖：`pip install PyQt5`
 - 运行：直接运行脚本即可，无需编译
-- 平台：Windows / macOS / Linux
+- 平台：Windows
 
 ---
 
