@@ -45,7 +45,7 @@ Drag, scale, and rotate characters on the canvas and see the result live, while 
 - UI: PyQt5
 - Dependency: `pip install PyQt5`
 - Run: Just run the script — no compilation needed
-- Platform: Windows / macOS / Linux
+- Platform: Windows
 
 ---
 
