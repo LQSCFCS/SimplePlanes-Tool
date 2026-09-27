@@ -1,9 +1,3 @@
-
----
-
-## `README.zh-CN.md`（中文）
-
-```markdown
 # SimplePlanes Tool — Unity TMP 富文本可视化编辑器
 
 [English](README.md) | **中文**
