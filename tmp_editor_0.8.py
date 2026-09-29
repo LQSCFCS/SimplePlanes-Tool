@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Unity TMP 富文本可视化编辑器 v0.75
+Unity TMP 富文本可视化编辑器 v0.8
 依赖: pip install PyQt5
 """
 
