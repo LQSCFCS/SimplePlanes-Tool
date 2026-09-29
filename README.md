@@ -10,7 +10,7 @@ A visual editor for **Unity TextMeshPro** rich text.
 Drag characters, bind expressions, preview in real time, export rich text
 that pastes straight into SimplePlanes. No art assets. No coding.
 
-![Editor screenshot](https://s1.imagehub.cc/images/2026/09/27/ac6c87fd578ecb506639776283fc9f6e.md.png)
+![Editor screenshot](https://s1.imagehub.cc/images/2026/09/29/bad541863517d4dfa938190ac306c76f.png)
 
 ---
 
