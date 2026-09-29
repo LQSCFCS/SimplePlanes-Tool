@@ -10,7 +10,7 @@
 拖拽摆字符、写表达式绑定动画、实时预览、一键导出可直接粘进游戏的富文本。
 无需美术资源，无需编程。
 
-![程序图](https://s1.imagehub.cc/images/2026/09/27/ac6c87fd578ecb506639776283fc9f6e.md.png)
+![程序截图_0.8](https://s1.imagehub.cc/images/2026/09/29/bad541863517d4dfa938190ac306c76f.png)
 
 ---
 
